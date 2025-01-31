@@ -19,6 +19,7 @@
 <br />
 <br />
 <br />
+
 ## Skills
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
