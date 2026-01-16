@@ -1,4 +1,4 @@
-## Jiwon Yoon 😎
+## 😎 Jiwon Yoon 
 
 ## 🤸🏻‍♀️Activity
 - 경기대학교 AI컴퓨터공학부 인공지능전공 재학 <sub>(2021.03 ~ 2026.02)</sub>
@@ -13,5 +13,5 @@
 - [마롱] - 기획 및 AI(llm) <sub>(25.04 ~ 25.08)</sub>
 - [StoryTeller] - 기획 및 AI(llm, tts) <sub>(25.06 ~ 25.11)</sub>
 
-## 🛠 SKILL 🛠
+## 🛠 SKILL 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,mysql,gcp,git,github,fastapi,)](https://skillicons.dev)
