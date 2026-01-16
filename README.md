@@ -1,22 +1,17 @@
-## 🤩 윤지원, AI Engineer
-### AI 기술로 많은 사람들에게 즐거움과 편리함을 더하고 싶습니다
+## Jiwon Yoon 😎
 
-## 📍 My values
-### 성실, 도전, 긍정
-
-## 📍 Skills
-
-- **언어**: Python
-- **Generative AI**
-  - Pytorch, TensorFlow를 통한 LLM 구현
-  - Openai api, Gemini api 구현 경험
-  - LangChain, LangGraph 기반 LLM 추론 파이프라인 구성
-  - SentenceTransformers, OpenAI Embedding, ChromaDB, Faiss를 통한 RAG 구조 구축
-  - FastAPI 기반 AI 모델 서빙
-- **ML/Vision**
-  - YOLOv9, ByteTrack, OpenCV 를 활용한 객체 탐지 알고리즘 구현
-  - 텍스트, 이미지 등 다양한 데이터 수집, 라벨링, 증강처리
-- **Backend**
-  - MySQl 기반 데이터 저장 및 조회 로직 구현 경험
+## 🤸🏻‍♀️Activity
+- 경기대학교 AI컴퓨터공학부 인공지능전공 재학 <sub>(2021.03 ~ 2026.02)</sub>
+- 경기대학교 AI컴퓨터공학부 인공지능전공 부학생회장 <sub>(2023.01 ~ 2023.12)</sub>
+- 대학생 연합 4차산업융합동아리 CNTO <sub>(2023.09 ~ 2023.12)</sub>
+- 경기대학교 소프트웨어경영대학 부학생회장 <sub>(2024.01 ~ 2024.12)</sub>
+- 카카오테크 부트캠프 판교 인공지능 2기 <sub>(2025.01 ~ 2025.08)</sub>
   
+## 🏆 Project
+- [실시간 긴 대기줄 인식 알고리즘] - 알고리즘 설계 및 개발 <sub>(24.03 ~ 24.08)</sub>
+- [ecore] - 기획 및 AI(image segmentation) <sub>(24.04 ~ 24.12)</sub>
+- [마롱] - 기획 및 AI(llm) <sub>(25.04 ~ 25.08)</sub>
+- [StoryTeller] - 기획 및 AI(llm, tts) <sub>(25.06 ~ 25.11)</sub>
+
+## 🛠 SKILL 🛠
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,mysql,gcp,git,github,fastapi,)](https://skillicons.dev)
